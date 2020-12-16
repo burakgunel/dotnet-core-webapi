@@ -1,0 +1,16 @@
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\myData.deps.json
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\myData.dll
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\myData.pdb
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\Microsoft.Extensions.Options.dll
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\BURAK.GUNEL\myApi\myData\bin\Release\netcoreapp2.2\Microsoft.Extensions.Options.xml
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.csprojAssemblyReference.cache
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.csproj.CoreCompileInputs.cache
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.AssemblyInfoInputs.cache
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.AssemblyInfo.cs
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.csproj.CopyComplete
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.dll
+C:\Users\BURAK.GUNEL\myApi\myData\obj\Release\netcoreapp2.2\myData.pdb

@@ -1,0 +1,24 @@
+--------------------------------RabbitMq-----------------------------------------------
+Provider URL : https://customer.cloudamqp.com/instance
+Hosts: 	sparrow.rmq.cloudamqp.com (Load balanced)
+		sparrow-01.rmq.cloudamqp.com 
+passs : ad6hjrBUTMK5fhUMokcR1ZdskyEaL0BU
+user vhost:  	aoluauiv
+AMQP URL :	amqps://aoluauiv:ad6hjrBUTMK5fhUMokcR1ZdskyEaL0BU@sparrow.rmq.cloudamqp.com/aoluauiv
+RabbitMq UI : https://sparrow.rmq.cloudamqp.com
+QueueName: myWebApi.MessageQueue
+---------------------------------------------------------------------------------------
+
+------------------------------MongoDB--------------------------------------------------
+DbName: myAppDB
+Password : q7snac
+
+var client = new MongoClient("mongodb+srv://myAppDb:<password>@cluster0.ig2ae.mongodb.net/<dbname>?retryWrites=true&w=majority");
+var database = client.GetDatabase("test");
+
+https://developer.okta.com/blog/2020/06/29/aspnet-core-mongodb
+
+
+
+
+
