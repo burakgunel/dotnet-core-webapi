@@ -33,6 +33,8 @@ namespace myPublisherBusiness.Base
                 properties.DeliveryMode = 1; // Doesn't persist to disk
                 properties.Timestamp = new AmqpTimestamp(DateTimeOffset.UtcNow.ToUnixTimeSeconds());
                 Channel.BasicPublish(exchange: ExchangeName, routingKey: RoutingKeyName, body: body, basicProperties: properties);
+
+               
                 response.Success = true;
                 return response;
             }
