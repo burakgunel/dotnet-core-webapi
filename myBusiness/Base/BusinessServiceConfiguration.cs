@@ -14,6 +14,7 @@ namespace myBusiness.Base
         {
             services.AddSingleton<ICreateCommand<SendMessageRequestDTO>, CreateMessageCommand>();
             services.AddSingleton<IGetCommand<GetMessageResponseDTO, GetMessageRequestDTO>, GetMessageCommand>();
+            services.AddSingleton<ISendPushNotificationCommand, SendPushNotificationCommand>();
         }
     }
 }

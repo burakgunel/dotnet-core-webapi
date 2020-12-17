@@ -1,9 +1,0 @@
-C:\Users\BURAK.GUNEL\myApi\myDomain\bin\Debug\netcoreapp2.2\myDomain.deps.json
-C:\Users\BURAK.GUNEL\myApi\myDomain\bin\Debug\netcoreapp2.2\myDomain.dll
-C:\Users\BURAK.GUNEL\myApi\myDomain\bin\Debug\netcoreapp2.2\myDomain.pdb
-C:\Users\BURAK.GUNEL\myApi\myDomain\obj\Debug\netcoreapp2.2\myDomain.csproj.CoreCompileInputs.cache
-C:\Users\BURAK.GUNEL\myApi\myDomain\obj\Debug\netcoreapp2.2\myDomain.AssemblyInfoInputs.cache
-C:\Users\BURAK.GUNEL\myApi\myDomain\obj\Debug\netcoreapp2.2\myDomain.AssemblyInfo.cs
-C:\Users\BURAK.GUNEL\myApi\myDomain\obj\Debug\netcoreapp2.2\myDomain.dll
-C:\Users\BURAK.GUNEL\myApi\myDomain\obj\Debug\netcoreapp2.2\myDomain.pdb
-C:\Users\BURAK.GUNEL\myApi\myDomain\obj\Debug\netcoreapp2.2\myDomain.csprojAssemblyReference.cache

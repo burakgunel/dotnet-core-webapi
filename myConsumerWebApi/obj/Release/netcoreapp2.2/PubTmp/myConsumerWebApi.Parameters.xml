@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="myconsumerapp" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\BURAK\.GUNEL\\myApi\\myConsumerWebApi\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
